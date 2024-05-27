@@ -1,6 +1,6 @@
 <!-- #region -->
-# CO2_review_paper
-Workflows from Muller et al. 2022 paper "Evolution of Earth’s tectonic carbon conveyor belt".
+# Carbon review paper
+Workflows from Muller et al. (in review) "Solid Earth carbon degassing and sequestration since 1 billion years ago".
 
 ## Dependencies
 
