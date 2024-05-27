@@ -1,0 +1,2 @@
+This directory contains the following files:
+2. ContinentalMasks - passive margins, trenches and contoured continent polygon gpmls, as well as continent masks made from contoured/buffered continental polygons in a separate/external workflow. These use the Muller et al. (2022) ref frame. The current version is based on the plate model in webDAV: https://www.earthbyte.org/webdav/ftp/Data_Collections/Muller_etal_2022_SE/Muller_etal_2022_SE_Merdith21_PMAG-ref-frame-oceanic-crustal-agegrids_v1.2.1.zip. 
