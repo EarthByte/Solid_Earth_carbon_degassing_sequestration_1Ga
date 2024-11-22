@@ -1,7 +1,7 @@
 <!-- #region -->
 # Solid Earth carbon degassing and sequestration since 1Ga
 
-Tectono-thermodynamic deep carbon flux modelling workflows from Muller et al. (G3, in press) "Solid Earth carbon degassing and sequestration since 1 billion years ago" based on this plate model: Müller, R.D., Flament, N., Cannon, J., Tetley, M., Williams, S.E., Cao, X., Bodur, Ö.F., Zahirovic, S. and Merdith, A., 2022, A tectonic-rules based mantle reference frame since 1 billion years ago–implications for supercontinent cycles and plate-mantle system evolution, Solid Earth, 13, 1127.
+Tectono-thermodynamic deep carbon flux modelling workflows from Müller, R. D., Dutkiewicz, A., Zahirovic, S., Merdith, A. S., Scotese, C. R., Mills, B. J. W., et al. (2024), Solid Earth carbon degassing and sequestration since 1 billion years ago. Geochemistry, Geophysics, Geosystems, 25, e2024GC011713. https://doi.org/10.1029/2024GC011713" based on this plate model: Müller, R.D., Flament, N., Cannon, J., Tetley, M., Williams, S.E., Cao, X., Bodur, Ö.F., Zahirovic, S. and Merdith, A., 2022, A tectonic-rules based mantle reference frame since 1 billion years ago–implications for supercontinent cycles and plate-mantle system evolution, Solid Earth, 13, 1127.
 
 ## Dependencies
 
